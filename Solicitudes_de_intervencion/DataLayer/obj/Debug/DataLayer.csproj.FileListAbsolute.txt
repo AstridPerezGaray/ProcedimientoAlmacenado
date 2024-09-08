@@ -1,0 +1,312 @@
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\DataLayer\obj\Debug\DataLayer.pdb

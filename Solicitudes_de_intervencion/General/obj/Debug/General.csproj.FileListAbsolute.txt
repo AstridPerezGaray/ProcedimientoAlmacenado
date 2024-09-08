@@ -1,0 +1,531 @@
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\General.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\General.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.Home.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.VistaPrevia.VistaPreviaEmpleado.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.PacientesEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.PacientesGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CitasGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.CitasEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.UsuariosEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.UsuariosGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.RolesEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.RolesGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.AsignarOpcionARol.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.VerPermisos.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.MedicamentoGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.CitasEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.PacientesEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.RolesEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.UsuariosEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.AsignarOpcionARol.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CitasGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.MedicamentoGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.PacientesGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.RolesGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.UsuariosGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.VerPermisos.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.Home.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.VistaPrevia.VistaPreviaEmpleado.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\General.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\General.pdb
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\DataLayer.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Memory.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Memory.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.ConsultasEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CosultasGestion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.FacturaEdicion.resources
+C:\Users\halle\Downloads\Sistema-SCP-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.FacturaGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.CitasEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.ConsultasEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.FacturaEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.PacientesEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.RolesEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.UsuariosEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.AsignarOpcionARol.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CitasGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CosultasGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.FacturaGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.MedicamentoGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.PacientesGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.RolesGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.UsuariosGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.VerPermisos.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.Home.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.VistaPrevia.VistaPreviaEmpleado.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.Reportes.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.pdb
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.CitasEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.ConsultasEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.FacturaEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.PacientesEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.RolesEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.UsuariosEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.AsignarOpcionARol.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CitasGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CosultasGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.FacturaGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.MedicamentoGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.PacientesGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.RolesGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.UsuariosGestion.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.VerPermisos.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.Home.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.VistaPrevia.VistaPreviaEmpleado.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.dll
+F:\PROYECTO DS2\Nueva carpeta\Nueva carpeta\Sistema-SCP\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.CitasEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.ConsultasEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.FacturaEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.PacientesEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.RolesEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.UsuariosEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.AsignarOpcionARol.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CitasGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CosultasGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.FacturaGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.MedicamentoGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.PacientesGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.RolesGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.UsuariosGestion.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.VerPermisos.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.Home.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.VistaPrevia.VistaPreviaEmpleado.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\halle\Downloads\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.pdb
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.CitasEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.ConsultasEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.FacturaEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.PacientesEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.RolesEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.UsuariosEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.AsignarOpcionARol.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CitasGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CosultasGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.FacturaGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.MedicamentoGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.PacientesGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.RolesGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.UsuariosGestion.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.VerPermisos.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.Home.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.VistaPrevia.VistaPreviaEmpleado.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.dll
+C:\Users\PC\Downloads\Clinica_Medica-main\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.CitasEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.ConsultasEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.FacturaEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.PacientesEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.RolesEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIEdicion.UsuariosEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.AsignarOpcionARol.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CitasGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.CosultasGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.DoctoresGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.FacturaGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.MedicamentoGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.PacientesGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.RolesGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.UsuariosGestion.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.VerPermisos.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.Home.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.VistaPrevia.VistaPreviaEmpleado.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.dll
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\ccerr\Downloads\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.GUIGestiones.prueba.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\General.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.SolicitantesEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica-main SOLO FALTA LOGIN\Clinica_Medica-main\Clinica_Medica\General\obj\Debug\General.GUI.SolicitantesGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\General.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\General.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\DataLayer.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\MySql.Data.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\Google.Protobuf.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\ZstdSharp.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Memory.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Buffers.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\DataLayer.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\DataLayer.dll.config
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\MySql.Data.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\Google.Protobuf.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Memory.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Buffers.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.GUI.SolicitantesEdicion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.GUI.SolicitantesGestion.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Solicitudes_de_intervencion\Solicitudes_de_Intervencion\Solicitudes_de_intervencion\General\obj\Debug\General.pdb
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\General.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\General.pdb
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\DataLayer.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\ZstdSharp.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\DataLayer.pdb
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\DataLayer.dll.config
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\MySql.Data.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.GUI.SolicitantesEdicion.resources
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.GUI.SolicitantesGestion.resources
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.dll
+C:\Users\PC\Downloads\Solicitudes_de_intervencion\General\obj\Debug\General.pdb
